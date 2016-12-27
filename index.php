@@ -16,4 +16,4 @@ define('WP_USE_THEMES', true);
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
-/** added to cause a git conflict */
+/** added to cause more git conflicts */
