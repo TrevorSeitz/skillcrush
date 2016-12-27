@@ -17,5 +17,5 @@ define('WP_USE_THEMES', true);
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 
-/** added to cause a git conflict */
+/** added to cause another git conflict */
 
